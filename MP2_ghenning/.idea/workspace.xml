@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cff4f92-9697-4566-b450-2f4911c2c92f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkFaaaIyEJpvS32bpR70DnZ7Uk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student" />
+      <module name="MP2_ghenning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cff4f92-9697-4566-b450-2f4911c2c92f" name="Default Changelist" comment="" />
+      <created>1581582249801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581582249801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="78" key="#Project_Structure" timestamp="1581582272055">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="78" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1581582272055" />
+    <state x="695" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1581628375113">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="695" y="107" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1581628375113" />
+    <state width="942" height="197" key="GridCell.Tab.0.bottom" timestamp="1581775604989">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="942" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581775604989" />
+    <state width="942" height="197" key="GridCell.Tab.0.center" timestamp="1581775604988">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="942" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1581775604988" />
+    <state width="942" height="197" key="GridCell.Tab.0.left" timestamp="1581775604988">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="942" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1581775604988" />
+    <state width="942" height="197" key="GridCell.Tab.0.right" timestamp="1581775604989">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="942" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1581775604989" />
+    <state x="296" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1583460479144">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="296" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1583460479144" />
+    <state x="544" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1581627805666">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="544" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1581627805666" />
+  </component>
+</project>
